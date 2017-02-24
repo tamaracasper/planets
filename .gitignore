@@ -1,2 +1,4 @@
 *.dat
-results/a
+!final.dat
+results/
+!results/a.out
