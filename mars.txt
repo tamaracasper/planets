@@ -1,3 +1,5 @@
  The planet mars is red.
  It's the fourth planet.
  It's smaller than earth.
+ 
+ Added venus.
